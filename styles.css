@@ -1,0 +1,32 @@
+h1 {
+    color: #FDFFFC;
+}
+
+body {
+    background:  #079ac8;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 400px;
+    
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom:  -50px;
+}
+.card {
+    border: 3px solid  black;
+}
+.details {
+    background-color: #011627;
+}
+
+.details h5 {
+    color: #ff4500;
+}
