@@ -3,7 +3,7 @@
 ### Introduction 
 This was a training project that was a part of a Net Ninja JavaScript course I completed.  The aim of this project was to learn asynchronous functions and how to implement them.
 
-Here's to the Net Ninja'a project for reference: [Weather App](https://github.com/iamshaunjp/modern-javascript/tree/lesson-100)
+Here's a link to the Net Ninja'a project for reference: [Weather App](https://github.com/iamshaunjp/modern-javascript/tree/lesson-100)
 
 ### Technologies 
 
