@@ -10,7 +10,7 @@ Here's a link to the Net Ninja'a project for reference: [Weather App](https://gi
 * vanilla JavaScript
 * HTML
 * CSS
-* Bootstrap
+* Bootstrap 4
 
 ### Setup 
 
