@@ -1,4 +1,4 @@
-# Weather App
+# [Archived] Weather App 
 
 ### Introduction 
 This was a training project that was a part of a Net Ninja JavaScript course I completed.  The aim of this project was to learn asynchronous functions and how to implement them.
